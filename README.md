@@ -19,3 +19,4 @@ Possible improvement to use brass standoffs for connecting and securing Buck 1
 
 Breadboard section not meaningful populated.
 
+This project is not aimed to be a very low cost solution but the BOM was fractions of the offered standard solution with much shorter emergency run time and lower efficiency.
