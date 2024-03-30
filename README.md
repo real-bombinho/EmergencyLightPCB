@@ -17,3 +17,5 @@ Power supply used: HLG-40H-20A Mean Well LED driver
 
 Possible improvement to use brass standoffs for connecting and securing Buck 1
 
+Breadboard section not meaningful populated.
+
