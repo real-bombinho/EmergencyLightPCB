@@ -12,8 +12,12 @@ contains Fritzing file for emergency light PCB
 
 Fixing holes and PCB size to accomodate 'Industrial Control Box Enclosure Case Din Rail'
 
-Buck converters used: Mini 360 DC-DC Ultra Small Buck Converter; 5A Lithium Charger CV CC buck
-Power supply used: HLG-40H-20A Mean Well LED driver
+Buck converters used: 
+- Mini 360 DC-DC Ultra Small Buck Converter;
+- 5A Lithium Charger CV CC buck
+
+Power supply used: 
+- HLG-40H-20A Mean Well LED driver
 
 Possible improvement to use brass standoffs for connecting and securing Buck 1
 
